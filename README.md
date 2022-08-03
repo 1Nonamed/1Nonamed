@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Ruiz
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on some projects
